@@ -2,7 +2,7 @@ repo_name: DoctorMorDi/uberagentz-pluginz
 report_id: 95b1eb90daa874a4b34eef1b424dd53f
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-03T11:39:04+00:00'
+timestamp: '2024-02-29T19:51:18+00:00'
 requested_by: lobehubbot
 provider: github
 branch: main
@@ -92,7 +92,7 @@ tools:
   last_updated_by: CanisMinor
   last_updated_on: 2023-10-26 08:28:01.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   license: MIT
   open_source: true
